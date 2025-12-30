@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Remains",
+  "base_artist": "鈴華ゆう子",
+  "createdAt": "2025-12-30T15:20:46.865493Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everything Remains Raw",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/01_Everything_Remains_Raw_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everything Remains Raw",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/02_Everything_Remains_Raw_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Remains",
+      "artist": "Zola Jesus",
+      "has_synced": false,
+      "path": "select/03_Remains_Zola_Jesus.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Song Remains the Same",
+      "artist": "Led Zeppelin",
+      "has_synced": false,
+      "path": "select/04_The_Song_Remains_the_Same_Led_Zeppelin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nothing Remains",
+      "artist": "Male Bonding",
+      "has_synced": false,
+      "path": "select/05_Nothing_Remains_Male_Bonding.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gypsy That Remains (feat. Locate S, 1)",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/06_Gypsy_That_Remains_(feat._Locate_S,_1)_of_Montreal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gypsy That Remains",
+      "artist": "of Montreal & Locate S,1",
+      "has_synced": true,
+      "path": "select/07_Gypsy_That_Remains_of_Montreal_&_Locate_S,1.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "While The Song Remains The Same",
+      "artist": "Noel Gallagher's High Flying Birds",
+      "has_synced": true,
+      "path": "select/08_While_The_Song_Remains_The_Same_Noel_Gallagher's_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "While the Song Remains the Same",
+      "artist": "Noel Gallagher’s High Flying Birds",
+      "has_synced": true,
+      "path": "select/09_While_the_Song_Remains_the_Same_Noel_Gallagher’s_High_Flying_Birds.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Voice Remains",
+      "artist": "Dead Astronauts",
+      "has_synced": false,
+      "path": "select/10_No_Voice_Remains_Dead_Astronauts.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Feeling Remains",
+      "artist": "Cast",
+      "has_synced": false,
+      "path": "select/11_The_Feeling_Remains_Cast.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goshens Remains",
+      "artist": "Pure Reason Revolution",
+      "has_synced": false,
+      "path": "select/12_Goshens_Remains_Pure_Reason_Revolution.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Still Love Remains",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/13_Still_Love_Remains_Seal.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What Remains",
+      "artist": "Foals",
+      "has_synced": true,
+      "path": "select/14_What_Remains_Foals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Heart Remains a Child",
+      "artist": "Everything But The Girl",
+      "has_synced": true,
+      "path": "select/15_The_Heart_Remains_a_Child_Everything_But_The_Girl.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Am Dust - Roman Remains Remix",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/16_I_Am_Dust_-_Roman_Remains_Remix_Gary_Numan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Remains",
+      "artist": "鈴華ゆう子",
+      "has_synced": false,
+      "path": "select/pl_01_Remains_鈴華ゆう子.txt"
+    }
+  ]
+}
